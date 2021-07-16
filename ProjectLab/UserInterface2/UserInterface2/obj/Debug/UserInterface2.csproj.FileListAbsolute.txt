@@ -1,0 +1,16 @@
+C:\Users\Меруерт\Source\Repos\ProjectLab\UserInterface2\UserInterface2\bin\Debug\UserInterface2.exe.config
+C:\Users\Меруерт\Source\Repos\ProjectLab\UserInterface2\UserInterface2\bin\Debug\UserInterface2.exe
+C:\Users\Меруерт\Source\Repos\ProjectLab\UserInterface2\UserInterface2\bin\Debug\UserInterface2.pdb
+C:\Users\Меруерт\Source\Repos\ProjectLab\UserInterface2\UserInterface2\obj\Debug\UserInterface2.csprojAssemblyReference.cache
+C:\Users\Меруерт\Source\Repos\ProjectLab\UserInterface2\UserInterface2\obj\Debug\UserInterface2.allbooks.resources
+C:\Users\Меруерт\Source\Repos\ProjectLab\UserInterface2\UserInterface2\obj\Debug\UserInterface2.search_books.resources
+C:\Users\Меруерт\Source\Repos\ProjectLab\UserInterface2\UserInterface2\obj\Debug\UserInterface2.MainPage.resources
+C:\Users\Меруерт\Source\Repos\ProjectLab\UserInterface2\UserInterface2\obj\Debug\UserInterface2.MDI_User.resources
+C:\Users\Меруерт\Source\Repos\ProjectLab\UserInterface2\UserInterface2\obj\Debug\UserInterface2.Properties.Resources.resources
+C:\Users\Меруерт\Source\Repos\ProjectLab\UserInterface2\UserInterface2\obj\Debug\UserInterface2.Registration.resources
+C:\Users\Меруерт\Source\Repos\ProjectLab\UserInterface2\UserInterface2\obj\Debug\UserInterface2.csproj.GenerateResource.cache
+C:\Users\Меруерт\Source\Repos\ProjectLab\UserInterface2\UserInterface2\obj\Debug\UserInterface2.csproj.CoreCompileInputs.cache
+C:\Users\Меруерт\Source\Repos\ProjectLab\UserInterface2\UserInterface2\obj\Debug\UserInterface2.exe
+C:\Users\Меруерт\Source\Repos\ProjectLab\UserInterface2\UserInterface2\obj\Debug\UserInterface2.pdb
+C:\Users\Меруерт\Source\Repos\ProjectLab\UserInterface2\UserInterface2\obj\Debug\UserInterface2.BookResult.resources
+C:\Users\Меруерт\source\repos\ProjectLab\UserInterface2\UserInterface2\obj\Debug\UserInterface2.booksout.resources
